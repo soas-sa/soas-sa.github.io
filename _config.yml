@@ -118,8 +118,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-    - icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/school/soas-university-of-london/"
 
 # Site Footer
 footer:
